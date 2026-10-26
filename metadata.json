@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity - 3D Supercar Grand Prix",
+  "description": "High-octane 3D arcade racing simulator with realistic vehicle physics, AI competitors, drifting mechanics, nitro boost, and dynamic procedural tracks built in Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
